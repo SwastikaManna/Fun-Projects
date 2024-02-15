@@ -1,4 +1,6 @@
 # Fun-Projects
+Random Projects made on HTML, CSS, and JavaScript as I'm Learning new things in web development.
+
 ## Letter 
 A fun envelope wish full of hearts for a special day.
 
