@@ -8,4 +8,7 @@ A fun envelope wish full of hearts for a special day.
 A fun webpage with a heartfelt letter and a torchlight to read it.
 
 ## Message 
-A cute and fun way to ask someone who you dont want to be rejected from .
+A cute and fun way to ask someone who you don't want to take no as an answer.
+
+##Flowers
+An animation of flowers blooming made by using HTML, CSS & JavaScript.
